@@ -1,0 +1,3 @@
+sujan, 1000
+henry, 500
+jenny, 690
